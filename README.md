@@ -2,14 +2,14 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    I'm Orges Kreka :wave:
+    I am Orges Kreka :wave:
     <br><br>
     I work as a Software developer :telescope:!
     <br><br>
     Beside's programming, I enjoy learning new things, traveling and eating food.
     
-    - 🌌 I’m currently working at [Raiffeisen Albania](https://www.raiffeisen.al/) as a full stack developer.
-    - 🔭 I’m currently reading **Philosophy** and learning **Astronomy**.
+    - 🌌 Currently working at [Raiffeisen Albania](https://www.raiffeisen.al/) as a full stack developer.
+    - 🔭 Reading <b>Philosophy</b> and learning __Astronomy__.
     - 🛸 Fun fact: I can code without coffee.
     - 🎼 Hobbies:  Reading, traveling, astronomy, watching movies and eating food.
   </samp>
