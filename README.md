@@ -54,9 +54,15 @@
 
 <p align="center">
   <a href="https://al.linkedin.com/in/orges-kreka-8692b9155"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="30px" alt="Facebook"></a> &nbsp; &nbsp;
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="30px" alt="Facebook"></a> &nbsp; &nbsp;
  
 </p>
+
+<p align="center">
+<img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" />
+</p>
+
+### `We're made of star stuff. We are a way for the cosmos to know itself`- _Carl Sagan_
 
 <br>
 
