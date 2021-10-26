@@ -7,7 +7,7 @@
     I work as a Software developer :telescope:!
     <br><br>
     <p>Beside's programming, I enjoy learning new things, traveling and eating food. <br>  
-    - 🌌 Currently working at [Raiffeisen Albania](https://www.raiffeisen.al/) as a full stack developer.<br>     
+    - 🌌 Currently working as a full stack developer.<br>     
     - 🔭 Reading <b>Philosophy</b> and learning <b>Astronomy</b>.<br>     
     - 🛸 Fun fact: I can code without coffee.<br>     
     - 🎼 Hobbies:  Reading, traveling, astronomy, watching movies and eating food.<br>  </p>   
