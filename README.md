@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
-  <br><br>
   <samp>
     I am Orges Kreka :wave:
     <br><br>
@@ -10,7 +8,6 @@
     - 🌌 Currently working as a full stack developer.<br>     
     - 🔭 Reading <b>Philosophy</b> and learning <b>Astronomy</b>.<br>     
     - 🛸 Fun fact: I can code without coffee.<br>     
-    - 🎼 Hobbies:  Reading, traveling, astronomy, watching movies and eating food.<br>  </p>   
     
   </samp>
 </p>
@@ -46,26 +43,4 @@
 
 ---
 
-</p>
-
-<p align="center"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
-</p>
-
-<p align="center">
-  <a href="https://al.linkedin.com/in/orges-kreka-8692b9155"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="30px" alt="Facebook"></a> &nbsp; &nbsp;
- 
-</p>
-
-<p align="center">
-<img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" />
-</p>
-
-### `We're made of star stuff. We are a way for the cosmos to know itself`- _Carl Sagan_
-
-<br>
-
-<p align="center">
-  Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
 </p>
